@@ -1,0 +1,9 @@
+[submodule "kdl_parser"]
+	path = kdl_parser
+	url = git@github.com:ros/kdl_parser.git
+[submodule "orocos_kinematics_dynamics"]
+	path = orocos_kinematics_dynamics
+	url = git@github.com:orocos/orocos_kinematics_dynamics.git
+[submodule "universal_robot"]
+	path = universal_robot
+	url = git@github.com:ros-industrial/universal_robot.git
